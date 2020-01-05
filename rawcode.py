@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import tensorflow 
 from tensorflow import keras
 from keras import optimizers
